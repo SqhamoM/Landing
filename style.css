@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #0a3049;
+    color: #fff;
+    text-align: center;
+    padding: 5em 0;
+}
+.hero-section {
+    text-align: center;
+    padding: 2em;
+    background-color: #ecf0f1;
+}
+
+.services-section {
+    text-align: center;
+    padding: 2em;
+
+}
+
+.cta-section {
+    background-color: #2e91d3;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 2em;
+}
+
+.contact-section {
+    text-align: center;
+    padding: 2em;
+    background-color: #ecf0f1;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+}

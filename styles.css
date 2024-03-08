@@ -1,0 +1,128 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    background-image: url(web\ page\ image4.jpg);
+}
+
+header {
+    background-color: #615e5c;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+}
+header h1{
+    
+    color: #eef2f5; 
+            font-size: 3em; 
+            text-align: center; 
+            margin-top: 30px; 
+            text-transform: uppercase; 
+            letter-spacing: 2px; 
+            font-weight: bold; 
+}
+
+nav ul {
+    list-style: none;
+    padding: 15px;
+    text-align: right;
+    color: white;
+    background-color: #eef2f5;
+
+    float:right; 
+            display: block; 
+            color: #f39a62;
+           text-align: center;
+            padding: 14px 16px;
+            text-decoration: none; 
+    
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    color:#f39a62;
+
+}
+
+section {
+    padding: 40px;
+}
+#About{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700px;
+    color:#f39a62;
+    font-size: larger;
+}
+
+.services-section {
+    background-color: #e0e0e0;
+    padding: 40px;
+}
+
+.Service {
+    margin-bottom: 30px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+input,
+textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+button {
+    background-color: #666;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightseagreen; 
+}
+
+footer {
+    background-color: #666;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+p{
+    color: #eef2f5;
+    font-size: medium;
+    
+}
+.services-section p{
+    color: #333;
+}
+.container h2{
+    color:#f59840 ;
+}
+#home h2{
+    color:#f59840 ;
+    text-align: center;
+    margin-left: 100px;
+    font-size: xx-large;
+     
+}
+
+#home p{
+    margin-right: 120px;
+}
